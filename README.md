@@ -1,4 +1,7 @@
 ## Анимация на Python - Человек
+[![Made by xFaN](https://img.shields.io/badge/Made%20by-xFaN-blueviolet)](https://github.com/xfancode)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-purple)]()
+
 > *Данный проект на Python использует библиотеки: Turtle, Time.*
 ---
 ## В чём смысл анимации?
