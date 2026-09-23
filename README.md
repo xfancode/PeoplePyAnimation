@@ -41,3 +41,5 @@
 **💸 https://donationalerts.com/r/xfan_yt - донатик**
 
 **💎 https://github.com/xfancode — GitHub**
+
+(С 23 сентября данный репозиторий в архиве.)
